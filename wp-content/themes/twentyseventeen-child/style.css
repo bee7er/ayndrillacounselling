@@ -4381,6 +4381,7 @@ p > object:only-child {
 
 .site-title a {
     color: white !important;
+    text-transform: capitalize !important;
 }
 
 .site-description {

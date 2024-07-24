@@ -31,8 +31,8 @@
 			<!--//BEE 20240723 -->
 			<table style="margin-top: -70px;margin-bottom: -10px;">
 				<tr style="">
-					<td style=""><img src="/wp-content/uploads/2024/07/ayndrilla_sm.jpg" width="100%" height="auto" alt=""></td>
-					<td style="padding-left: 188px;border: 0px solid red;">&nbsp;</td>
+					<td style="width: 25%;"><img src="/wp-content/uploads/2024/07/ayndrilla_sm.jpg" width="100%" height="auto" alt=""></td>
+					<td style="padding-left: 140px;border: 0px solid red;">&nbsp;</td>
 					<td style="padding: 0;font-weight: bold;text-align: left; vertical-align: top;margin">I’m Ayndrilla (An-drill-ah, she/her), a humanistic counsellor and a member of the BACP offering sessions in central Brighton.  I can offer you the time and space to explore whatever is happening for you right now.</td>
 				</tr>
 			</table>
