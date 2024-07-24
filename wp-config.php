@@ -24,18 +24,18 @@
  * @package WordPress
  */
 
-// ** Database settings - You can get this info from your web host ** //
-/** The name of the database for WordPress */
-define( 'DB_NAME', 'i9036769_ype91' );
-
-/** Database username */
-define( 'DB_USER', 'i9036769_ype91' );
-
-/** Database password */
-define( 'DB_PASSWORD', 'K.67s1vyA1RGVXxuGcX11' );
-
-/** Database hostname */
-define( 'DB_HOST', 'localhost' );
+if ($_SERVER['HTTP_HOST'] && stripos($_SERVER['HTTP_HOST'],'test')!==false) {
+	/** Test environment */
+	define('DB_NAME', "ayndrilla");
+	define('DB_USER', "brian");
+	define('DB_PASSWORD', "HelloCharlie!");
+	define('DB_HOST', "localhost");
+} else {
+	define('DB_NAME', 'i9036769_ype91');
+	define('DB_USER', 'i9036769_ype91');
+	define('DB_PASSWORD', 'K.67s1vyA1RGVXxuGcX11');
+	define('DB_HOST', 'localhost');
+}
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
