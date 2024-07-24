@@ -1,0 +1,36 @@
+[08-Jul-2024 08:11:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/eqt4vbh4chkj/public_html/ayndrillacounselling.co.uk/wp-includes/html-api/class-wp-html-processor.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/eqt4vbh4chkj/public_html/ayndrillacounselling.co.uk/wp-includes/html-api/class-wp-html-processor.php on line 139
+[08-Jul-2024 08:11:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/eqt4vbh4chkj/public_html/ayndrillacounselling.co.uk/wp-includes/html-api/class-wp-html-processor.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/eqt4vbh4chkj/public_html/ayndrillacounselling.co.uk/wp-includes/html-api/class-wp-html-processor.php on line 139
+[08-Jul-2024 08:11:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/eqt4vbh4chkj/public_html/ayndrillacounselling.co.uk/wp-includes/html-api/class-wp-html-processor.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/eqt4vbh4chkj/public_html/ayndrillacounselling.co.uk/wp-includes/html-api/class-wp-html-processor.php on line 139
+[08-Jul-2024 08:11:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/eqt4vbh4chkj/public_html/ayndrillacounselling.co.uk/wp-includes/html-api/class-wp-html-processor.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/eqt4vbh4chkj/public_html/ayndrillacounselling.co.uk/wp-includes/html-api/class-wp-html-processor.php on line 139
+[08-Jul-2024 08:11:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/eqt4vbh4chkj/public_html/ayndrillacounselling.co.uk/wp-includes/html-api/class-wp-html-processor.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/eqt4vbh4chkj/public_html/ayndrillacounselling.co.uk/wp-includes/html-api/class-wp-html-processor.php on line 139
+[08-Jul-2024 08:11:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/eqt4vbh4chkj/public_html/ayndrillacounselling.co.uk/wp-includes/html-api/class-wp-html-processor.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/eqt4vbh4chkj/public_html/ayndrillacounselling.co.uk/wp-includes/html-api/class-wp-html-processor.php on line 139
+[08-Jul-2024 08:11:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/eqt4vbh4chkj/public_html/ayndrillacounselling.co.uk/wp-includes/html-api/class-wp-html-processor.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/eqt4vbh4chkj/public_html/ayndrillacounselling.co.uk/wp-includes/html-api/class-wp-html-processor.php on line 139
+[08-Jul-2024 08:12:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/eqt4vbh4chkj/public_html/ayndrillacounselling.co.uk/wp-includes/html-api/class-wp-html-processor.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/eqt4vbh4chkj/public_html/ayndrillacounselling.co.uk/wp-includes/html-api/class-wp-html-processor.php on line 139
+[08-Jul-2024 08:12:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/eqt4vbh4chkj/public_html/ayndrillacounselling.co.uk/wp-includes/html-api/class-wp-html-processor.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/eqt4vbh4chkj/public_html/ayndrillacounselling.co.uk/wp-includes/html-api/class-wp-html-processor.php on line 139
