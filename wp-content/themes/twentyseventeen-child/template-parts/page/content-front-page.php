@@ -29,7 +29,7 @@
 		<div class="wrap">
 
 			<!--//BEE 20240723 -->
-			<table style="margin-top: -70px;margin-bottom: -10px;">
+			<table style="margin-top: -10px;margin-bottom: -10px;">
 				<tr style="">
 					<td style="width: 25%;"><img src="/wp-content/uploads/2024/07/ayndrilla_sm.jpg" width="100%" height="auto" alt=""></td>
 					<td style="padding-left: 140px;border: 0px solid red;">&nbsp;</td>

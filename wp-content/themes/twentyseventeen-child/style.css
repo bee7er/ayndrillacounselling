@@ -3323,11 +3323,11 @@ p > object:only-child {
     }
 
     /* Front Page */
-
+    /*
     .panel-content .wrap {
         padding-bottom: 2em;
         padding-top: 3.5em;
-    }
+    }*/
 
     .page-one-column .panel-content .wrap {
         max-width: 740px;
@@ -3782,10 +3782,11 @@ p > object:only-child {
         height: calc(100vh - 32px);
     }
 
+    /*
     .panel-content .wrap {
         padding-bottom: 4.5em;
         padding-top: 6em;
-    }
+    }*/
 
     .panel-image {
         height: 100vh;
