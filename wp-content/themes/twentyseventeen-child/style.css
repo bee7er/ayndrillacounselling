@@ -3242,6 +3242,63 @@ p > object:only-child {
     width: auto;
 }
 
+.ayndrilla-image {
+    width: 25%;
+    vertical-align: top;
+}
+
+.ayndrilla-spacer {
+    padding-left: 140px;
+}
+
+@media screen and (max-width: 964px) {
+
+    .ayndrilla-image {
+        width: 30%;
+        vertical-align: top;
+    }
+
+    .ayndrilla-spacer {
+        padding-left: 76px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    .ayndrilla-image {
+        width: 35%;
+        vertical-align: top;
+    }
+
+    .ayndrilla-spacer {
+        padding-left: 76px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+
+    .ayndrilla-image {
+        width: 35%;
+        vertical-align: top;
+    }
+
+    .ayndrilla-spacer {
+        padding-left: 40px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+
+    .ayndrilla-image {
+        width: 40%;
+        vertical-align: top;
+    }
+
+    .ayndrilla-spacer {
+        padding-left: 20px;
+    }
+}
+
 /*--------------------------------------------------------------
 19.0 Media Queries
 --------------------------------------------------------------*/
