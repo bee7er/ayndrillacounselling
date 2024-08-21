@@ -3251,35 +3251,21 @@ p > object:only-child {
     padding-left: 140px;
 }
 
-@media screen and (max-width: 964px) {
+@media screen and (max-width: 1025px) {
 
     .ayndrilla-image {
         width: 30%;
-        vertical-align: top;
     }
 
     .ayndrilla-spacer {
-        padding-left: 76px;
+        padding-left: 98px;
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 769px) {
 
     .ayndrilla-image {
         width: 35%;
-        vertical-align: top;
-    }
-
-    .ayndrilla-spacer {
-        padding-left: 76px;
-    }
-}
-
-@media screen and (max-width: 600px) {
-
-    .ayndrilla-image {
-        width: 35%;
-        vertical-align: top;
     }
 
     .ayndrilla-spacer {
@@ -3287,15 +3273,36 @@ p > object:only-child {
     }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
+
+    .ayndrilla-image {
+        width: 35%;
+    }
+
+    .ayndrilla-spacer {
+        padding-left: 40px;
+    }
+}
+
+@media screen and (max-width: 481px) {
 
     .ayndrilla-image {
         width: 40%;
-        vertical-align: top;
     }
 
     .ayndrilla-spacer {
         padding-left: 20px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+
+    .ayndrilla-image {
+        width: 40%;
+    }
+
+    .ayndrilla-spacer {
+        padding-left: 10px;
     }
 }
 
