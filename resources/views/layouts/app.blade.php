@@ -40,16 +40,14 @@
         @include('partials.nav')
     @endif
 
-    @include('partials.header')
-
-    <div class="container-fluid">
+    <div class="">
 
         @yield('content')
 
     </div>
 
     <div class="row footer-row-container">
-        <div style="display: inline-block; float: left;padding-top:40px;padding-left: 10px;">Copyright &copy; {{ (new DateTime)->format('Y') }} A Singharay</div><div style="xdisplay: inline-block;float: right;padding-top:40px;padding-right: 10px;">Privacy Notice</div>
+        <div style="display: inline-block; float: left;padding-top:40px;padding-left: 10px;">Copyright &copy; {{ (new DateTime)->format('Y') }} A Singharay</div><div style="display: inline-block;padding-top:40px;"><a href="https://www.bacp.co.uk/" target="_blank" title="BACP website - opens in a new window"><img class="" src="/img/bacp_logo.png" alt="" width="130"></a></div><div style="display: inline-block;float: right;padding-top:40px;padding-right: 10px;"><a href="/privacy/" title="">Privacy Notice</a></div>
         <div style="clear: both"></div>
     </div>
 

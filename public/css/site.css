@@ -10774,13 +10774,13 @@ textarea {
 }
 
 a {
-  color: #d9230f;
+  color: #3c3c3c;
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: #91170a;
+  color: #5c5c5c;
   text-decoration: underline;
 }
 
@@ -17843,7 +17843,7 @@ body {
 
 .header-block, .sub-header-block {
   color: #3c3c3c;
-  font-size: 2.2em;
+  font-size: 1.2em;
 }
 
 .header-menu-left {
@@ -17920,159 +17920,6 @@ body {
   text-align: center;
   padding: 0 15px 12px 15px;
   width: 20%;
-}
-
-.row-container,
-.title-row-container,
-.about-row-container,
-.contact-row-container,
-.news-row-container,
-.merch-row-container,
-.fish-tank-row-container,
-.footer-row-container,
-.template-row-container,
-.template-credits-row-container {
-  margin: 10px auto 10px auto;
-  border: 10px solid black;
-  padding: 8px;
-  background-color: #FFF;
-  color: #fff;
-  width: 90%;
-  text-align: center;
-  font-size: 20px;
-}
-
-.row-container,
-.title-row-container {
-  margin-top: 8px;
-  border: none;
-  padding: 0;
-}
-
-.title-row-container {
-  margin-bottom: -8px;
-}
-
-.logo-menu-container {
-  width: 95%;
-  margin: 10px auto 0 auto;
-}
-
-.logo-menu-row {
-  margin-bottom: 20px;
-}
-
-.logo-menu-table {
-  margin: 10px auto 10px auto;
-  text-align: center;
-}
-
-.logo-menu-table-left,
-.logo-menu-table-center,
-.logo-menu-table-right {
-  padding-bottom: 0;
-}
-
-.logo-menu-table-left {
-  width: 40%;
-}
-
-.logo-menu-table-center {
-  width: 20%;
-}
-
-.logo-menu-table-right {
-  width: 40%;
-}
-
-.template-row-container {
-  margin-top: 0;
-  padding: 0;
-}
-
-.template-credits-row-container {
-  width: 30%;
-  margin-top: 0;
-  padding: 36px;
-  text-align: center;
-}
-
-.template-sub-container {
-  margin-top: 50px;
-}
-
-.default-template-sub-container {
-  margin-top: 40px;
-}
-
-.footer-row-container {
-  height: 200px;
-  width: 100%;
-  padding: 0;
-  margin: 0;
-  margin-top: 100px;
-  border: 0;
-  border-top: 10px solid #000;
-  background-color: #fff;
-  color: #000;
-}
-
-.fish-tank-row-container {
-  margin-top: 300px;
-  padding: 0;
-  border: 0;
-}
-
-.about-row-container {
-    margin-top: 0;
-    padding: 0;
-    width: 45%;
-    text-align: left;
-}
-
-.contact-row-container {
-  margin-top: 0;
-  padding: 20px;
-  width: 30%;
-  text-align: center;
-}
-
-.news-row-container {
-  margin-top: 0;
-  padding: 0;
-  width: 0;
-  text-align: left;
-}
-
-.news-adjust-div {
-  width: fit-content;
-  /* To adjust the height as well */
-  height: fit-content;
-}
-
-.news-adjust-ul {
-  margin: 28px 40px 28px 52px !important;
-  padding: 0;
-}
-
-.merch-row-container {
-  margin-top: 0;
-  padding: 20px;
-  width: 30%;
-  text-align: center;
-}
-
-.video-frame {
-  background-color: #000;
-  padding: 0;
-  margin: 0 auto -8px auto;
-  width: 100%;
-  height: 350px;
-}
-
-.resource-container {
-  margin-top: 0;
-  padding: 20px;
 }
 
 .work-image,
@@ -18271,14 +18118,60 @@ body {
   width: 260px;
 }
 
+
+/* BEE Ayndrilla classes */
+.row-container {
+  margin: 8px auto 10px auto;
+  border: none;
+  padding: 0;
+  background-color: #FFF;
+  color: #fff;
+  width: 90%;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+.ayndrilla-container {
+  padding: 0;
+  margin: 0 auto 0 auto;
+  border: none;
+  background-color: #fff;
+  color: #3c3c3c;
+  width: 80%;
+  border: 0px solid red;
+}
+
+.murmuration-container {
+  padding: 0;
+  width: 100%;
+  height: 50%;
+  overflow: hidden;
+}
+
+.footer-row-container {
+  font-size: 1.2em;
+  height: 150px;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  margin-top: 80px;
+  border: 0;
+  border-top: 10px solid #000;
+  background-color: #fff;
+  color: #000;
+  text-align: center;
+}
+
 .top-menu {
-  font-size: 0.75em;
+  font-size: 1.0em;
   font-weight: normal;
-  padding-top: 6px;
+  padding: 0;
+  margin: 0;
 }
 
 .menu-option {
-  padding-right: 24px;
+  padding-right: 5%;
+  margin: 0;
 }
 
 .ayndrilla-text {
@@ -18293,7 +18186,9 @@ body {
 }
 
 .ayndrilla-side-title {
-  width: 20%;
+  font-size: 1.2em;
+  font-weight: bold;
+  width: 30%;
 }
 
 .ayndrilla-spacer {
@@ -18302,8 +18197,9 @@ body {
 
 .ayndrilla-content {
   padding: 0;
-  font-weight: normal;
+  font-weight: normal !important;
   text-align: left;
+  vertical-align: top;
 }
 
 .back-to-top-button {
@@ -18354,48 +18250,15 @@ p a:hover {
 /* Media queries */
 
 @media (max-width: 1200px) {
-  .row-container,
-  .title-row-container,
-  .logo-menu-container,
-  .about-row-container,
-  .fish-tank-row-container,
-  .template-row-container {,
+  .row-container {,
     padding: 0;
     width: 95%;
   }
 }
 
 @media (max-width: 768px) {
-  .row-container,
-  .title-row-container,
-  .logo-menu-container,
-  .about-row-container,
-  .fish-tank-row-container,
-  .template-row-container {
+  .row-container {
     padding: 0;
     width: 95%;
-  }
-
-  .contact-row-container,
-  .merch-row-container,
-  .news-row-container {
-    width: 70%;
-  }
-
-  .template-credits-row-container {
-    width: 60%;
-  }
-
-  .template-details-title {
-    font-size: 32px;
-    margin-bottom: 30px;
-  }
-
-  .logo-menu-row {
-    margin-bottom: 0;
-  }
-
-  .video-frame {
-    border: 0;
   }
 }
